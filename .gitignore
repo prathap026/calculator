@@ -9,7 +9,7 @@
 /bazel-out
 
 # dependencies
-/node_modules
+node_modules/
 
 chrome-profiler-events*.json
 speed-measure-plugin*.json
